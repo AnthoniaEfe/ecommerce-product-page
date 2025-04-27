@@ -1,4 +1,3 @@
-import './App.css'
 import { useState, useEffect } from 'react'
 import sneakerslogo from "./assets/images/logo.svg"
 import avatarimg from "./assets/images/image-avatar.png"
